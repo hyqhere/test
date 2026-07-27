@@ -464,6 +464,6 @@ print("""
 4. 面向对象编程 - 继承、多态等
 5. 函数式编程 - lambda, 装饰器等
 6. 异步编程 - async/await
-7. Web开发 - Django/Flask
+7. Web开发 - Django/FastApi
 8. 数据分析 - pandas/numpy
 """)
